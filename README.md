@@ -1,9 +1,7 @@
-<!--## Hi there 👋 -->
+<!--## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Let%20Me%20Show%20You%20Myself&fontSize=60" />
-
-
-
 #![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgyoung96&layout=compact)
+-->
 <!--
 **sgyoung96/sgyoung96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
